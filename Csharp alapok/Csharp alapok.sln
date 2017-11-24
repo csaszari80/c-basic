@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03Valtozok", "Valtozok\03Va
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Ciklus", "04Ciklus\04Ciklus.csproj", "{59207BC7-8649-4C22-9B71-415B6E50EDEA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1_Tipusok", "1-1_Tipusok\1-1_Tipusok.csproj", "{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{59207BC7-8649-4C22-9B71-415B6E50EDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59207BC7-8649-4C22-9B71-415B6E50EDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59207BC7-8649-4C22-9B71-415B6E50EDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
