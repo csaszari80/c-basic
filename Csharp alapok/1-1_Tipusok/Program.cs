@@ -10,6 +10,8 @@ namespace _1_1_Tipusok
     {
         static void Main(string[] args)
         {
+            var valtozo = 10;
+            valtozo = 20;
 
         }
     }
