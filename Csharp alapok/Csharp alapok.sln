@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04Ciklus", "04Ciklus\04Cikl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1_Tipusok", "1-1_Tipusok\1-1_Tipusok.csproj", "{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-2 Ermefeldobas", "ConsoleApplication1\1-2 Ermefeldobas.csproj", "{EA4FD1E0-2F9E-43C3-9902-486F8AE4DD41}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89CAEB7B-61EC-4183-8C54-4D337A2EE31B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA4FD1E0-2F9E-43C3-9902-486F8AE4DD41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4FD1E0-2F9E-43C3-9902-486F8AE4DD41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4FD1E0-2F9E-43C3-9902-486F8AE4DD41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4FD1E0-2F9E-43C3-9902-486F8AE4DD41}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
