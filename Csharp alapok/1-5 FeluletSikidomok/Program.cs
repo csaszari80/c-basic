@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _1_5_FeluletSikidomok //A névtér neve mindig betűvel vagy _-al kezdődik
+namespace _1_5_Letrehozo_Finalizer //A névtér neve mindig betűvel vagy _-al kezdődik
 {
     //Teljes elérés: _1_5_FeluletSikidomok.Program
     class Program
