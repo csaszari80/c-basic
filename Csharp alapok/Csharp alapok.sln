@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-6 Felület Síkidom", "1-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-7 GarbageCollector", "1-7 GarbageCollector\1-7 GarbageCollector.csproj", "{D9311FE5-9E0D-46BB-927E-B10B861A5984}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-8 GarbageCollector 2", "1-8 GarbageCollector 2\1-8 GarbageCollector 2.csproj", "{4A20EDF9-D6D5-400B-9BE1-5BAEB67EE58C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-9 IDisposable", "1-9 IDisposable\1-9 IDisposable.csproj", "{658A16B8-04F3-4C9C-A1E8-988028F5CEDD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{D9311FE5-9E0D-46BB-927E-B10B861A5984}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9311FE5-9E0D-46BB-927E-B10B861A5984}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9311FE5-9E0D-46BB-927E-B10B861A5984}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A20EDF9-D6D5-400B-9BE1-5BAEB67EE58C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A20EDF9-D6D5-400B-9BE1-5BAEB67EE58C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A20EDF9-D6D5-400B-9BE1-5BAEB67EE58C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A20EDF9-D6D5-400B-9BE1-5BAEB67EE58C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{658A16B8-04F3-4C9C-A1E8-988028F5CEDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{658A16B8-04F3-4C9C-A1E8-988028F5CEDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{658A16B8-04F3-4C9C-A1E8-988028F5CEDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{658A16B8-04F3-4C9C-A1E8-988028F5CEDD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -64,6 +64,8 @@ namespace _1_7_GarbageCollector
             //Kövessük nyomon egy hivatkozás korosítását menet közben
             var lista2 = new List<string>();
             //létrehozunk egy 2000 string-ből álló listát amelynek mindegyik eleme 6000 "A" karakterből áll
+
+
             for (int i = 0; i < 2000; i++)
             {
                 Thread.Sleep(10);
@@ -74,11 +76,11 @@ namespace _1_7_GarbageCollector
             Console.ReadKey();
 
 
-            //24 percnél járok
 
-            
 
-        
+
+
+
 
         }
         class Alap
@@ -105,7 +107,7 @@ namespace _1_7_GarbageCollector
         {
             public Leszarmaztatott(int i) :base(i)
             {
-               
+             
             }
 
             ~Leszarmaztatott()
