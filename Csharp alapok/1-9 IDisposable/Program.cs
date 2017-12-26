@@ -46,7 +46,7 @@ namespace _1_9_IDisposable
         {
             if (isDisposed==1)
             {
-                //ha már a dispose lefutott akkor hiba van, de ez még nem teljes megoldás
+                //ha már a dispose lefutott akkor hiba van, de ez még nem teljes megoldás utána kéne nézni a teljesnek mert a videókban nincs benne
                 throw new ObjectDisposedException(nameof(TisztaLevego));
             }
         }
@@ -151,7 +151,7 @@ namespace _1_9_IDisposable
 
             /// ez már akkor is jó ha több szálon fut a program több megoldás is van ez egy viszonylag elegáns lehetőség a függvény első paraméterbe változót átírja a második paraméterben megadott értékre és visszatér az eredeti értékkel ha több szál is végre akarja hajtani akkor egyszerre csak egynek engedi 
             /// ez viszont nem működik booleannal
-            If (Interlocked.Exchange(ref isDisposed, 1) == 1)
+            if (Interlocked.Exchange(ref isDisposed, 1) == 1)
             {
                 throw new ObjectDisposedException(nameof(TisztaLevego)); //ha már egyszer lefutott akkor hibát dobb az objektumtípus nevével (stringet vár ezért a nameof függvényt használjuk. beírhatnánk idézőjelbe is azonban akkor ha megváltoztatnánk az osztály nevét akkor nem jelezné nekünk a fordító hogy itt is kell változtatni
             }
