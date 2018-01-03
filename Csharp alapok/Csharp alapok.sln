@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-10 IEnumerable", "1-10 IE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-10 IEnumerable típusos", "1-10 IEnumerable típusos\1-10 IEnumerable típusos.csproj", "{6A62B05B-FF3A-47D7-9340-834A26DA3664}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-11 Kivételek", "1-11 Kivételek\1-11 Kivételek.csproj", "{33C1944F-1D1D-4D9E-89B6-437A7A1A25D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +101,10 @@ Global
 		{6A62B05B-FF3A-47D7-9340-834A26DA3664}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A62B05B-FF3A-47D7-9340-834A26DA3664}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A62B05B-FF3A-47D7-9340-834A26DA3664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33C1944F-1D1D-4D9E-89B6-437A7A1A25D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33C1944F-1D1D-4D9E-89B6-437A7A1A25D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33C1944F-1D1D-4D9E-89B6-437A7A1A25D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33C1944F-1D1D-4D9E-89B6-437A7A1A25D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
