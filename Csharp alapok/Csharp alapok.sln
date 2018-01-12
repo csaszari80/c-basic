@@ -37,6 +37,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-11 Kivételek", "1-11 Kiv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-11 kivételteljesítmény", "1-11 kivételteljesítmény\1-11 kivételteljesítmény.csproj", "{FC2CAF33-B9C4-414F-B9DC-0D8BC6F529ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-12 Log4Net", "1-12 Log4Net\1-12 Log4Net.csproj", "{8D931663-1B0B-47C8-AED7-B4DF3567194C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -111,6 +113,10 @@ Global
 		{FC2CAF33-B9C4-414F-B9DC-0D8BC6F529ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC2CAF33-B9C4-414F-B9DC-0D8BC6F529ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC2CAF33-B9C4-414F-B9DC-0D8BC6F529ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D931663-1B0B-47C8-AED7-B4DF3567194C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D931663-1B0B-47C8-AED7-B4DF3567194C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D931663-1B0B-47C8-AED7-B4DF3567194C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D931663-1B0B-47C8-AED7-B4DF3567194C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
